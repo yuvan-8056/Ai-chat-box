@@ -1,0 +1,6 @@
+{
+  "name": "YUVANRAJ AI",
+  "description": "A clean, elegant, and responsive single-screen chatbot interface powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
